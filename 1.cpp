@@ -1,2 +1,1 @@
-hi hi hiii
-
+print("hello manju !")
